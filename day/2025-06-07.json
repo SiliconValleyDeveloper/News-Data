@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Importance of Competitive Exams in India",
+    "description": "Competitive exams play a crucial role in shaping the careers of millions of Indian students. They serve as gateways to prestigious colleges and government jobs, thereby determining the future prospects of candidates. Each year, various examinations such as JEE, NEET, UPSC, and others attract immense participation, highlighting the competitive nature of education and employment in the country. These exams not only test the academic prowess of students but also enhance their problem-solving abilities and time management skills, paving the way for personal and professional growth.",
+    "image": "https://example.com/competitive_exams_image.jpg",
+    "source": "Education Today",
+    "source_name": "Education Today",
+    "published_at": "2023-10-01",
+    "related_exam": [
+      "JEE",
+      "NEET",
+      "UPSC",
+      "CAT"
+    ],
+    "related_sector": [
+      "Education",
+      "Government Jobs",
+      "Engineering",
+      "Medical"
+    ],
+    "important_for": [
+      "Students",
+      "Educators",
+      "Policy Makers"
+    ]
+  }
+]
