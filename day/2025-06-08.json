@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Understanding the Indian Examination System",
+    "description": "The Indian examination system is an extensive and multifaceted framework designed to assess the academic performance of students across various levels. With a focus on both formative and summative assessments, it plays a crucial role in determining the educational trajectory of learners. From school-level examinations like the ICSE and CBSE to competitive exams like the JEE and NEET, this article explores the different facets of exams in India, including their structure, significance, and impact on students' futures.",
+    "image": "https://example.com/image.jpg",
+    "source": "Education Today",
+    "source_name": "Education Today",
+    "published_at": "2023-10-01T10:00:00Z",
+    "related_exam": [
+      "CBSE 10th",
+      "CBSE 12th",
+      "JEE",
+      "NEET"
+    ],
+    "related_sector": [
+      "Education",
+      "Assessment",
+      "Examination"
+    ],
+    "important_for": [
+      "Students",
+      "Parents",
+      "Educators"
+    ]
+  }
+]
