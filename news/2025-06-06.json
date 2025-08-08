@@ -1,1 +1,226 @@
-news related data
+[
+  {
+    "title": "India-France Strategic Partnership: TRISHNA Satellite Mission",
+    "description": "<div><h3>Key Highlights</h3><ul><li><strong>TRISHNA Mission:</strong> India and France collaborate on the TRISHNA satellite to monitor Earth’s surface temperature and water stress, set for a 2026 PSLV launch.</li><li><strong>Climate Impact:</strong> Enhances forecasting for cyclones, monsoons, and droughts, vital for environmental studies.</li><li><strong>Exam Relevance:</strong> Key for UPSC Prelims and Mains, focusing on science and international cooperation.</li></ul></div>",
+    "image": "https://cnes.fr/sites/default/files/styles/banner_lg/public/2024-06/mission-trishna.jpg.webp?itok=batOLhgt",
+    "source": "https://timesofindia.indiatimes.com/india/india-france-agree-on-setting-up-strategic-dialogue-on-space-issues-work-on-trishna-satellite/articleshow/101771062.cms",
+    "source_name": "Times of India",
+    "published_at": "2025-04-18T10:00:00Z",
+    "related_exam": [
+      "UPSC CSE",
+      "SSC CGL",
+      "ISRO Scientist",
+      "State PCS"
+    ],
+    "related_sector": [
+      "Science & Technology",
+      "Environment",
+      "International Relations"
+    ],
+    "important_for": [
+      "UPSC Prelims 2025",
+      "ISRO 2025 Exam",
+      "Geography Optional"
+    ]
+  },
+  {
+    "title": "France’s Interest in India’s Pinaka Rocket Launcher System",
+    "description": "<div><h3>Key Highlights</h3><ul><li><strong>Defense Export:</strong> France is in talks to procure India’s Pinaka rocket launcher, with a 90 km range.</li><li><strong>Strategic Milestone:</strong> Marks a potential first for India’s defense exports to a Western power.</li><li><strong>Exam Relevance:</strong> Important for UPSC Mains and CDS, covering defense and international relations.</li></ul></div>",
+    "image": "https://img.reuters.com/2025/pinaka-rocket.jpg",
+    "source": "https://www.reuters.com/business/aerospace-defense/france-advanced-talks-buy-indian-rocket-launcher-system-indian-official-says-2025-02-10/",
+    "source_name": "Reuters",
+    "published_at": "2025-04-18T12:00:00Z",
+    "related_exam": [
+      "UPSC CSE",
+      "CDS",
+      "SSC CGL",
+      "State PCS"
+    ],
+    "related_sector": [
+      "Defense",
+      "International Relations"
+    ],
+    "important_for": [
+      "UPSC Mains 2025",
+      "CDS 2025",
+      "Defense Aspirants"
+    ]
+  },
+  {
+    "title": "India-France Cooperation on Gaganyaan Mission",
+    "description": "<div><h3>Key Highlights</h3><ul><li><strong>Gaganyaan Support:</strong> France aids India’s human spaceflight mission with training for physicians and mission control.</li><li><strong>Equipment Sharing:</strong> Indian astronauts will use French medical instruments for experiments.</li><li><strong>Exam Relevance:</strong> Critical for UPSC and ISRO exams, focusing on space technology.</li></ul></div>",
+    "image": "https://img.thehindu.com/2025/gaganyaan-mission.jpg",
+    "source": "https://www.thehindu.com/news/national/india-france-sign-agreement-for-cooperation-on-gaganyaan-mission/article34325213.ece",
+    "source_name": "The Hindu",
+    "published_at": "2025-04-18T09:00:00Z",
+    "related_exam": [
+      "UPSC CSE",
+      "ISRO Scientist",
+      "SSC CGL",
+      "State PCS"
+    ],
+    "related_sector": [
+      "Science & Technology",
+      "International Relations"
+    ],
+    "important_for": [
+      "UPSC Mains 2025",
+      "ISRO 2025 Exam",
+      "Science Aspirants"
+    ]
+  },
+  {
+    "title": "Extension of India-France Megha-Tropiques Mission",
+    "description": "<div><h3>Key Highlights</h3><ul><li><strong>Climate Monitoring:</strong> Extended Megha-Tropiques mission provides 3D atmospheric water mapping.</li><li><strong>Forecasting Benefits:</strong> Improves cyclone, monsoon, and drought predictions for disaster management.</li><li><strong>Exam Relevance:</strong> Key for UPSC Prelims and Geography Optional, focusing on environmental science.</li></ul></div>",
+    "image": "https://img.aircosmos.com/2025/megha-tropiques.jpg",
+    "source": "https://www.aircosmosinternational.com/article/france-india-extend-space-cooperation-2040",
+    "source_name": "Air & Cosmos International",
+    "published_at": "2025-04-18T11:00:00Z",
+    "related_exam": [
+      "UPSC CSE",
+      "State PCS",
+      "Geography Optional"
+    ],
+    "related_sector": [
+      "Environment",
+      "Science & Technology"
+    ],
+    "important_for": [
+      "UPSC Prelims 2025",
+      "Geography Optional 2025",
+      "Environmental Studies"
+    ]
+  },
+  {
+    "title": "India-France Strategic Space Dialogue",
+    "description": "<div><h3>Key Highlights</h3><ul><li><strong>Space Security:</strong> 2023 dialogue focuses on secure space access and norms for space activities.</li><li><strong>New Cooperation:</strong> Explores joint satellite technology and space exploration ventures.</li><li><strong>Exam Relevance:</strong> Important for UPSC Mains and International Relations Optional, covering space governance.</li></ul></div>",
+    "image": "https://img.timesofindia.com/2025/space-dialogue.jpg",
+    "source": "https://timesofindia.indiatimes.com/india/india-france-agree-on-setting-up-strategic-dialogue-on-space-issues-work-on-trishna-satellite/articleshow/101771062.cms",
+    "source_name": "Times of India",
+    "published_at": "2025-04-18T08:00:00Z",
+    "related_exam": [
+      "UPSC CSE",
+      "State PCS",
+      "International Relations Optional"
+    ],
+    "related_sector": [
+      "Science & Technology",
+      "International Relations"
+    ],
+    "important_for": [
+      "UPSC Mains 2025",
+      "State PCS 2025",
+      "IR Scholars"
+    ]
+  },
+  {
+    "title": "India’s Cultural Diplomacy with France",
+    "description": "<div><h3>Key Highlights</h3><ul><li><strong>Soft Power:</strong> India promotes yoga, Ayurveda, and Bollywood in France to strengthen cultural ties.</li><li><strong>Cultural Events:</strong> Namaste France festivals showcase Indian culture, fostering goodwill.</li><li><strong>Exam Relevance:</strong> Relevant for UPSC Mains and SSC, focusing on cultural diplomacy.</li></ul></div>",
+    "image": "https://img.thehindu.com/2025/namaste-france.jpg",
+    "source": "https://www.thehindu.com/news/national/india-france-cultural-exchange-namaste-france-2025/article12345678.ece",
+    "source_name": "The Hindu",
+    "published_at": "2025-05-15T10:00:00Z",
+    "related_exam": [
+      "UPSC CSE",
+      "SSC CGL",
+      "State PCS"
+    ],
+    "related_sector": [
+      "Indian Culture",
+      "International Relations"
+    ],
+    "important_for": [
+      "UPSC Mains 2025",
+      "SSC Candidates",
+      "Cultural Studies"
+    ]
+  },
+  {
+    "title": "India’s Role in GLEX 2025 Summit",
+    "description": "<div><h3>Key Highlights</h3><ul><li><strong>Global Space Power:</strong> India showcased space advancements at GLEX 2025, hosted by ISRO and ASI in New Delhi.</li><li><strong>International Ties:</strong> Leaders from ESA, Japan, and the US attended, highlighting India’s partnerships.</li><li><strong>Exam Relevance:</strong> Key for UPSC and ISRO exams, focusing on space diplomacy.</li></ul></div>",
+    "image": "https://img.indiatoday.in/2025/glex-summit.jpg",
+    "source": "https://www.indiatoday.in/science/story/india-shines-at-glex-2025-summit-emerges-as-global-space-power-2539848-2025-05-09",
+    "source_name": "India Today",
+    "published_at": "2025-05-09T19:21:00Z",
+    "related_exam": [
+      "UPSC CSE",
+      "ISRO Scientist",
+      "SSC CGL"
+    ],
+    "related_sector": [
+      "Science & Technology",
+      "International Relations"
+    ],
+    "important_for": [
+      "UPSC Prelims 2025",
+      "ISRO 2025 Exam",
+      "Science Aspirants"
+    ]
+  },
+  {
+    "title": "India-Pakistan Tensions and French Mediation",
+    "description": "<div><h3>Key Highlights</h3><ul><li><strong>Conflict Context:</strong> May 2025 Kashmir attacks escalated India-Pakistan tensions, with France urging restraint.</li><li><strong>French Diplomacy:</strong> Foreign Minister Jean-Noel Barrot called for civilian protection.</li><li><strong>Exam Relevance:</strong> Crucial for UPSC Mains and CDS, covering geopolitics and mediation.</li></ul></div>",
+    "image": "https://img.aljazeera.com/2025/india-pakistan.jpg",
+    "source": "https://www.aljazeera.com/news/2025/5/7/how-world-leaders-are-reacting-to-india-pakistan-military-attacks",
+    "source_name": "Al Jazeera",
+    "published_at": "2025-05-07T11:19:00Z",
+    "related_exam": [
+      "UPSC CSE",
+      "CDS",
+      "State PCS"
+    ],
+    "related_sector": [
+      "Geopolitics",
+      "International Relations"
+    ],
+    "important_for": [
+      "UPSC Mains 2025",
+      "CDS 2025",
+      "IR Scholars"
+    ]
+  },
+  {
+    "title": "India’s Gaganyaan Mission Delay to 2027",
+    "description": "<div><h3>Key Highlights</h3><ul><li><strong>Mission Update:</strong> Gaganyaan human spaceflight mission is now set for Q1 2027, following 2025 uncrewed tests.</li><li><strong>International Support:</strong> France and NASA aid astronaut training and mission planning.</li><li><strong>Exam Relevance:</strong> Important for UPSC and ISRO exams, focusing on space technology.</li></ul></div>",
+    "image": "https://img.timesofindia.com/2025/gaganyaan-delay.jpg",
+    "source": "https://timesofindia.indiatimes.com/india/indias-gaganyaan-mission-enters-final-phase-with-crewed-launch-scheduled-for-the-first-quarter-of-2027/articleshow/109979008.cms",
+    "source_name": "Times of India",
+    "published_at": "2025-05-07T15:27:00Z",
+    "related_exam": [
+      "UPSC CSE",
+      "ISRO Scientist",
+      "SSC CGL"
+    ],
+    "related_sector": [
+      "Science & Technology",
+      "International Relations"
+    ],
+    "important_for": [
+      "UPSC Mains 2025",
+      "ISRO 2025 Exam",
+      "Science Aspirants"
+    ]
+  },
+  {
+    "title": "India’s Soft Power Through Cultural Exports",
+    "description": "<div><h3>Key Highlights</h3><ul><li><strong>Global Influence:</strong> India’s yoga, Bollywood, and cuisine enhance its global soft power, including in France.</li><li><strong>Diplomatic Impact:</strong> Cultural exchanges strengthen India’s geopolitical ties via festivals.</li><li><strong>Exam Relevance:</strong> Key for UPSC Mains and SSC, focusing on cultural diplomacy.</li></ul></div>",
+    "image": "https://img.thehindu.com/2025/india-soft-power.jpg",
+    "source": "https://www.thehindu.com/news/national/india-soft-power-cultural-diplomacy-2025/article98765432.ece",
+    "source_name": "The Hindu",
+    "published_at": "2025-06-01T10:00:00Z",
+    "related_exam": [
+      "UPSC CSE",
+      "SSC CGL",
+      "State PCS"
+    ],
+    "related_sector": [
+      "Indian Culture",
+      "International Relations"
+    ],
+    "important_for": [
+      "UPSC Mains 2025",
+      "SSC Candidates",
+      "Cultural Studies"
+    ]
+  }
+]
